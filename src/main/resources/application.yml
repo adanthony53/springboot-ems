@@ -1,0 +1,10 @@
+spring:
+  mvc:
+    view:
+      prefix: /
+      suffix: .jsp
+  application:
+    name: ems
+server:
+  servlet:
+    context-path: /ems
